@@ -1,0 +1,9 @@
+/* css file will badesigned by eng:khaled nasser */
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(212, 233, 233);
+}
